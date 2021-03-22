@@ -91,6 +91,8 @@ https://learngitbranching.js.org/
 
 ## Internet courses I am planning on studying shortly or currently studying and planning on finishing soon
 
+- The Complete JavaScript Course 2021: From Zero to Expert!  
+https://www.udemy.com/course/the-complete-javascript-course/
 - RegexOne  
 https://regexone.com/
 - CS50: Introduction to Computer Science  
