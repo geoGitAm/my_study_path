@@ -43,7 +43,7 @@ https://foxminded.com.ua/c_sharp_dot_net/
 - OOP basics;
 - collections basics.
 
-## Books I am reading
+## Books I read
 
 - C# 8.0. Карманный справочник, Б. Албахари, Дж. Албахари;
 - Язык программирования C# 7 и платформы .NET и .NET Core, Эндрю Троелсен, Филипп Джепикс;
