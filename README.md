@@ -1,5 +1,5 @@
 # My .NET Developer Study Path
-Here you can have a closer look at my .NET Developer learning path. I tried my best to include all of the relevant studying materials and learning steps, however, I might be missing something.  
+Here you can have a closer look at my .NET Developer learning path. I tried my best to include all of the relevant studying materials and learning steps.  
 
 ## Mentoring
 
