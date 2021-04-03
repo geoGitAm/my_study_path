@@ -88,6 +88,12 @@ https://sqlbolt.com/
 https://refactoring.guru/refactoring/course
 - Learn Git Branching  
 https://learngitbranching.js.org/
+- Learn React  
+https://scrimba.com/learn/learnreact
+- MongoDB Crash Course  
+https://www.youtube.com/watch?v=-56x56UppqQ
+- Intro to MongoDB with C#  
+https://www.youtube.com/watch?v=69WBy4MHYUw&t=645s
 
 ## Internet courses I am planning on studying shortly or currently studying and planning on finishing soon
 
